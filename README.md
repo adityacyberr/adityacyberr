@@ -1,16 +1,13 @@
-# Hi, I'm Aditya 👋
+<h1 align="center">Hi 👋, I'm Aditya</h1>
 
-🎓 B.Tech CSE Student
+<h3 align="center">
+Cybersecurity Student • Python Learner • Building in Public
+</h3>
 
-🔐 Learning Cybersecurity
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Learning+Cybersecurity;Building+AdityaCyber;Learning+Python;Documenting+My+Journey" />
+</p>
 
-🐍 Learning Python
-
-🚀 Building AdityaCyber
-
-## Current Goals
-
-- Learn Python
-- Master Linux
-- Build Security Projects
-- Grow Personal Brand
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,html,css,js" />
+</p>
