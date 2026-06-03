@@ -5,7 +5,7 @@ Cybersecurity Student • Python Learner • Building in Public
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Learning+Cybersecurity;Building+AdityaCyber;Learning+Python;Documenting+My+Journey" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Learning+Cybersecurity;Building+AdityaCyber.in;Learning+Python;Documenting+My+Journey" />
 </p>
 
 <p align="center">
