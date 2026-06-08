@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 
 <h3 align="center">
-Cybersecurity Student • Python Learner • Building in Public
+Cybersecurity Studendt • Python Learner • Building in Public
 </h3>
 
 <p align="center">
