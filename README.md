@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya;</h1>
+<h1 align="center">Hi 👋, I'm Aditya</h1>
 
 <h3 align="center">
 Cybersecurity Studendt • Python Learner • Building in Public
